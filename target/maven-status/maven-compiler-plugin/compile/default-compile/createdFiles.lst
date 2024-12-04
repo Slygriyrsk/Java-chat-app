@@ -1,0 +1,8 @@
+com\chatapp\Main.class
+com\chatapp\client\ChatClient.class
+com\chatapp\shared\Message.class
+com\chatapp\client\ClientGUI.class
+com\chatapp\server\ChatServer.class
+com\chatapp\shared\User.class
+com\chatapp\server\ClientHandler.class
+com\chatapp\client\ClientGUI$UserListCell.class
